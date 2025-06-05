@@ -23,6 +23,3 @@ This repository contains a complete data analysis and machine learning workflow 
 5. Model selection and training (Logistic Regression, Random Forest)
 6. Model evaluation (accuracy, confusion matrix, classification report)
 7. Conclusion and insights
-
-## Repository Name Suggestion
-**breast-cancer-ml-analysis**
